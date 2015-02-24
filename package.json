@@ -1,7 +1,7 @@
 {
   "name": "moment-log",
   "description": "Logging with timestamps from moment",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "author": "Adam Lockhart <adamlockhart@me.com> (https://github.com/acl0056)",
   "keywords": [
     "moment",

@@ -1,7 +1,7 @@
 ## moment-log
 Logging with timestamps from moment
 
-###Usage:
+## Usage:
 The default date format is `'MMM DD YY, hh:mm:ss[:]'`;
 ```
 var log = require('moment-log');
