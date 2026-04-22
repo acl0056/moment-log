@@ -17,7 +17,7 @@
     "url": "https://github.com/acl0056/moment-log/issues"
   },
   "dependencies": {
-    "moment": "~2.11.2"
+    "moment": "~2.19.3"
   },
   "homepage": "https://github.com/acl0056/moment-log",
   "main": "index.js",
